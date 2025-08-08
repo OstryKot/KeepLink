@@ -24,7 +24,7 @@ No data is sent to the internet or stored on external servers — everything sta
 
 ## Why Privacy?
 
-In the age of cloud services and constant tracking, **Privacy First** gives you complete control over your data.  
+In the age of cloud services and constant tracking, **KeepLink** gives you complete control over your data.  
 Your bookmarks are stored only in your browser and on your disk — with no intermediaries.
 
 ## License
