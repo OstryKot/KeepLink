@@ -27,10 +27,4 @@ No data is sent to the internet or stored on external servers — everything sta
 In the age of cloud services and constant tracking, **KeepLink** gives you complete control over your data.  
 Your bookmarks are stored only in your browser and on your disk — with no intermediaries.
 
-## License
 
-This project is licensed under the [AGPLv3] license.
-
-### License Notice
-
-You are free to copy, distribute, and modify this program under the terms of the GNU Affero General Public License version 3 (AGPLv3).
