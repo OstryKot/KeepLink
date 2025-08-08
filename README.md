@@ -27,4 +27,12 @@ No data is sent to the internet or stored on external servers — everything sta
 In the age of cloud services and constant tracking, **KeepLink** gives you complete control over your data.  
 Your bookmarks are stored only in your browser and on your disk — with no intermediaries.
 
+## Testing via Tor Network
+
+For users who prioritize privacy and anonymity, **KeepLink** can be tested and used over the Tor network.  
+This allows you to access the application without revealing your IP address or other identifying information.
+
+You can test the app on Tor using the following address:  
+`http://d5pd3zrfrqillmmkoyak5fnmzlu5ejdie4v6iihmxodfcenmlepe6kid.onion`
+
 
