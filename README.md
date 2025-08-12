@@ -1,11 +1,11 @@
-# KeepLink – Local Bookmark Manager
+# KeepLink - Local Bookmark Manager
 
 **KeepLink** is a fully local, web-based bookmark manager designed with user privacy in mind.  
-No data is sent to the internet or stored on external servers — everything stays on your device.
+No data is sent to the internet or stored on external servers - everything stays on your device.
 
 ## Features
 
-- Fully local bookmark storage — no external databases or APIs.  
+- Fully local bookmark storage - no external databases or APIs.  
 - Web interface running directly in your browser.  
 - The manager calculates and displays a hash of the current interface, so you can verify that it is the original, unmodified version without any added components that could track the user.  
 - No telemetry, ads, or tracking.  
@@ -16,16 +16,16 @@ No data is sent to the internet or stored on external servers — everything sta
 
 ## Export and Import
 
-- **Export** — save bookmarks to a `.json` file.  
-- **Encrypted export** — bookmarks are securely encrypted using AES-256-GCM with PBKDF2 (100,000 iterations).  
+- **Export** - save bookmarks to a `.json` file.  
+- **Encrypted export** - bookmarks are securely encrypted using AES-256-GCM with PBKDF2 (100,000 iterations).  
   - A random salt and initialization vector (IV) are generated for each export.  
   - Encrypted files are saved with the `.enc` extension.  
-- **Import** — load a previously saved file (including encrypted `.enc` files) to restore bookmarks.
+- **Import** - load a previously saved file (including encrypted `.enc` files) to restore bookmarks.
 
 ## Why Privacy?
 
 In the age of cloud services and constant tracking, **KeepLink** gives you complete control over your data.  
-Your bookmarks are stored only in your browser and on your disk — with no intermediaries.
+Your bookmarks are stored only in your browser and on your disk - with no intermediaries.
 
 ## Testing via Tor Network
 
