@@ -35,4 +35,7 @@ This allows you to access the application without revealing your IP address or o
 You can test the app on Tor using the following address:  
 `http://d5pd3zrfrqillmmkoyak5fnmzlu5ejdie4v6iihmxodfcenmlepe6kid.onion`
 
+## User interface screenshot
+
+![Screenshot of the application](img.png)
 
